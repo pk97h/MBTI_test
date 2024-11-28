@@ -1,0 +1,80 @@
+{
+  "testResults": [
+    {
+      "id": "a345",
+      "result": "ESTJ"
+    },
+    {
+      "id": "c77b",
+      "result": "ENFP"
+    },
+    {
+      "id": "22cf",
+      "result": "ENTJ"
+    },
+    {
+      "id": "3e3f",
+      "result": "ESTJ",
+      "nickname": null
+    },
+    {
+      "id": "10b5",
+      "result": "ESTJ"
+    },
+    {
+      "id": "3e33",
+      "result": "ISTJ",
+      "nickname": null
+    },
+    {
+      "id": "acd8",
+      "result": "ISTJ"
+    },
+    {
+      "id": "6393",
+      "result": "ENTJ",
+      "nickname": null
+    },
+    {
+      "id": "22aa",
+      "result": "ENTJ"
+    },
+    {
+      "id": "a7ce",
+      "result": "ENTJ",
+      "nickname": null
+    },
+    {
+      "id": "335a",
+      "result": "ESFJ",
+      "nickname": null
+    },
+    {
+      "id": "329e",
+      "result": "ESFJ"
+    },
+    {
+      "id": "31a8",
+      "result": "ENTJ",
+      "nickname": null
+    },
+    {
+      "id": "43c7",
+      "result": "ISTJ",
+      "nickname": "Anonymous"
+    },
+    {
+      "id": "20b6",
+      "result": "ISTJ"
+    },
+    {
+      "id": "867d",
+      "result": "ISTJ",
+      "nickname": null
+    },
+    {
+      "id": "3e6d",
+      "result": "ESTP"
+    }
+  ]
+}
