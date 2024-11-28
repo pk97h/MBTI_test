@@ -1,6 +1,6 @@
 import axios from "axios";
 
-export const API_URL = "http://localhost:5000/testResults";
+export const API_URL = "https://tame-aged-gallon.glitch.me/testResults";
 
 // 테스트 결과 목록을 가져오는 함수
 export const getTestResults = async () => {
